@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you want to cite this proof-of-concept implementation alongside the relevant publications, please do so as follows."
+authors:
+- family-names: "Matzutt"
+  given-names: "Roman"
+  orcid: "https://orcid.org/0000-0002-4263-5317"
+- family-names: "Ahlrichs"
+  given-names: "Vincent"
+- family-names: "Pennekamp"
+  given-names: "Jan"
+  orcid: "https://orcid.org/0000-0003-0398-6904"
+- family-names: "Karwacik"
+  given-names: "Roman"
+- family-names: "Wehrle"
+  given-names: "Klaus"
+  orcid: "https://orcid.org/0000-0001-7252-4186"
+title: "RedactChain: Proof-of-Concept Prototype for the Swift and Transparent Removal of Illicit Blockchain Content"
+version: 1.0.0
+date-released: 2022-03-04
+url: "https://github.com/COMSYS/redactchain"
